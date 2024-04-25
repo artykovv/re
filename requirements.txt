@@ -1,0 +1,9 @@
+fastapi[all]
+sqlalchemy
+alembic
+asyncpg
+greenlet
+python-dotenv
+pandas
+openpyxl
+hypercorn
